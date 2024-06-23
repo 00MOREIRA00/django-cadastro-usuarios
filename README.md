@@ -12,3 +12,7 @@ django-admin startproject nome_projeto
 ```
 django-admin startapp nome_app
 ```
+
+
+
+>ROTAS -> VIEW -> HTML
